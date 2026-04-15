@@ -106,3 +106,15 @@ Includes:
 * Power BI
 * Tableau
 
+## 📸 Dashboard Preview
+
+### Power BI
+<img width="1572" height="867" alt="Screenshot 2026-04-15 171409" src="https://github.com/user-attachments/assets/0675f29f-f771-406a-b906-466d5699d91d" />
+
+
+### Tableau
+<img width="1287" height="790" alt="Screenshot 2026-04-15 171442" src="https://github.com/user-attachments/assets/97c7777d-03db-4ca1-861d-7c161b18f012" />
+
+## 🙋 Author
+**Prathamesh Chavan**  
+[LinkedIn](https://www.linkedin.com/in/prathamesh-chavan-92aa85288/) | [GitHub](https://github.com/Prxthxmesh)
